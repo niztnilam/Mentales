@@ -1,0 +1,20 @@
+body {
+    background-color: #d8a8a8;
+    color: aliceblue;
+    font-family: 'Geologica', sans-serif;
+    font-size: larger;
+}
+
+.titulo {
+    color: black;
+}
+
+h2{
+    color: blue;
+}
+.imagen1 {
+    width: 280px;
+}
+.imagen2 {
+    width: 280px;
+}
